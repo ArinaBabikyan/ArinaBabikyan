@@ -32,7 +32,7 @@ I am a Computer Science major with a minor in Mathematics, passionate about appl
 </table>
 
 ---
-Let's connect!
+### Let's connect!
 - Email: babikyan.a@northeastern.edu
 - GitHub: https://github.com/ArinaBabikyan
 - LinkedIn: www.linkedin.com/in/arina-babikyan
